@@ -1,4 +1,4 @@
-# Linkedin Sales Scraper
+# Tellinga SEO Tools
 **Tellinga SEO Tools** is a webscrapping bot that will find relevant information products from Zazzle, Cardsdirect, and Amazon. (Websites used with skimlinks for Tellinga.com
 
 ## Dependencies
