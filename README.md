@@ -8,8 +8,8 @@
 [BeautifulSoup](https://pypi.org/project/beautifulsoup4/),
 
 Installation Instructions
-# $pip install Requests
-# $pip install bs4
+` $pip install Requests`
+` $pip install bs4`
 
 ## Features and Options
 
