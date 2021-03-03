@@ -13,7 +13,8 @@ Installation Instructions
 
 ## Features and Options
 
-`Product_Scraper`: *Scrapes Zazzle, Cardsdirect, and Amazon for data on title as well as links*
+`Product_Scraper`: 
+- Scrapes Zazzle, Cardsdirect, and Amazon for data on title as well as links
 
 - Choose the website by using  `1, 2, or 3` 
   
